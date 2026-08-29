@@ -4,4 +4,4 @@ this is the second file with some changes for git commit -p command
 issue created in the GitHub is resolved now.
 
 this is question-11, the comprehensive question.Fixes #1
-it is actually resolved now
+it is actually resolved now completely.
